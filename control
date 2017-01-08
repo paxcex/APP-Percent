@@ -1,0 +1,10 @@
+Package: com.pxcex.apppercent
+Name: App Percent
+Depends: mobilesubstrate, preferenceloader
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: AppStore Installation in Percent (%) and Device Notification when an app download is finished. Configure option from Settings!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Depiction: https://paxcex.github.io/depictions/com.pxcex.apppercent/index.html
