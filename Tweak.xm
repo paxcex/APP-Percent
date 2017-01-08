@@ -36,8 +36,6 @@
 @property(copy) NSString * sectionID;
 
 @end
-/* To MSHook Offsets, use https://iosgods.com/topic/22718-mshook-tweakpatcherfunction-tweakpatcher-withwithout-psedittextcellpsslidercell-generator-online/ */
-/* To Easily Generate Tweak.xm and Preferences Plist https://iosgods.com/topic/24138-code-inject-generator-online-tweakxm-preferencesplist/ */
 
 #define PLIST_PATH @"/var/mobile/Library/Preferences/com.pxcex.apppercent.plist"
 
